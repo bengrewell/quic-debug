@@ -7,7 +7,7 @@
     },
     {
       "capture": "https://raw.githubusercontent.com/bengrewell/quic-debug/main/quic-1x1-10MB-0ms-100mbps/server.qlog"
-      "descrption": "server side qlog"
+      "description": "server side qlog"
     }
   ]
 }
