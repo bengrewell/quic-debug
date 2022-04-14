@@ -2,11 +2,11 @@
   "description": "Test results for quic 1x1 10MB transfer with 0ms latency at 100mbps"
   "paths": [
     {
-      "capture": ""
+      "capture": "https://raw.githubusercontent.com/bengrewell/quic-debug/main/quic-1x1-10MB-0ms-100mbps/client.qlog"
       "description": "client side qlog"
     },
     {
-      "capture": ""
+      "capture": "https://raw.githubusercontent.com/bengrewell/quic-debug/main/quic-1x1-10MB-0ms-100mbps/server.qlog"
       "descrption": "server side qlog"
     }
   ]
