@@ -6,4 +6,5 @@
 
 ## qvis
 
-https://qvis.quictools.info/#?file1=https://github.com/bengrewell/quic-debug/raw/main/quic-1x1-10MB-0ms-100mbps/client.qlog&file2=https://github.com/bengrewell/quic-debug/raw/main/quic-1x1-10MB-0ms-100mbps/server.qlog
+https://github.com/bengrewell/quic-debug/raw/main/quic-1x1-10MB-0ms-100mbps/client.qlog
+https://github.com/bengrewell/quic-debug/raw/main/quic-1x1-10MB-0ms-100mbps/server.qlog
